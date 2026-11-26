@@ -1,0 +1,20 @@
+
+{
+    "autosave": false,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": false,
+        "max-threads-hint": 25
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "482dmfyvhTXfQHGUxESY35ZHg2sQvbpkJcyvRzPPhrbbXVPaeg7kX5SBrLSz95q2yEWFkMXZowm31H7w2FQ7ZaUT8z5SJSW",
+            "pass": "My Cake",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
