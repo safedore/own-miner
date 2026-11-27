@@ -2,6 +2,7 @@
 ### What Was Set Up
 
 1. **Created Helper Scripts in `D:\Safe\Mines\Own`:**
+    - **[add_to_defender_exclusions.bat](file:///D:/Safe/Mines/Own/add_to_defender_exclusions.bat)**: One-click tool to add the project folder and `xmrig.exe` to Windows Defender Exclusion List (requests Admin UAC elevation automatically).
     - **[start_miner_hidden.vbs](file:///D:/Safe/Mines/Own/start_miner_hidden.vbs)**: Launches `xmrig.exe` silently in the background without opening a command prompt window.
     - **[start_miner.bat](file:///D:/Safe/Mines/Own/start_miner.bat)**: Simple batch script set to the correct working directory (`D:\Safe\Mines\Own`).
 
